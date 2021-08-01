@@ -4,7 +4,7 @@ class Cnoctl < Formula
   version "0.0.1"
   desc "An open source platform to onboard easily and securely development teams on multi-cloud Kubernetes clusters from a single console."
   homepage "https://www.gocno.io"
-  url "https://github.com/beopencloud/cno/releases/download/v#{version}/cnoctl_v#{version}-next_Darwin_x86_64.tar.gz"
+  url "https://github.com/beopencloud/cno/releases/download/v#{version}/cnoctl_#{version}_Darwin_x86_64.tar.gz"
   # checksum can be get by running : shasum -a 256 cnoctl_v0.0.1-next_Darwin_x86_64.tar.gz
   sha256 "3c0216e5a541a23be3bb3d1d16893947171520fc601d4af9c9efb9f01cccb1e1"
   license "Apache License, Version 2.0"
