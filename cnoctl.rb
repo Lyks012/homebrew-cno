@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 class Cnoctl < Formula
-  version "v2.0.2"
+  version "v2.0.3"
   desc "An open source platform to onboard easily and securely development teams on multi-cloud Kubernetes clusters from a single console."
   homepage "https://www.gocno.io"
   url "https://github.com/beopencloud/cno/releases/download/#{version}/cnoctl_Darwin_x86_64.tar.gz"
